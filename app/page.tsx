@@ -39,7 +39,7 @@ export default function HomePage() {
           <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gradient-to-r from-blue-500/5 to-blue-600/5 rounded-full blur-3xl animate-spin-slow"></div>
         </div>
 
-        <div className="max-w-7xl mx-auto relative z-10">
+        <div className="max-w-6xl mx-auto relative z-10 px-6">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-6">
@@ -119,7 +119,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-white">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-6xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Is Your Amazon Advertising Falling Short?</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -185,7 +185,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-gray-50">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-6xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Comprehensive Analysis (What's Included)</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
@@ -273,7 +273,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-white">
-        <div className="max-w-7xl mx-auto text-center">
+        <div className="max-w-6xl mx-auto text-center px-6">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">Personalized Recommendations</h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             Data is cool, but what do you do with it? Our tool provides a custom action plan for your account.
@@ -337,7 +337,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-gray-50">
-        <div className="max-w-7xl mx-auto text-center">
+        <div className="max-w-6xl mx-auto text-center px-6">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">How It Works</h2>
           <p className="text-xl text-gray-600 mb-16 max-w-3xl mx-auto">
             Simple 3-step process to get your comprehensive audit
@@ -403,7 +403,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-white">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-6xl mx-auto px-6">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-6">
@@ -452,7 +452,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-gray-50">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-3xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Frequently Asked Questions</h2>
             <p className="text-xl text-gray-600">Everything you need to know about our audit tool</p>
@@ -495,7 +495,7 @@ export default function HomePage() {
       </section>
 
       <section className="py-20 px-4 bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900">
-        <div className="max-w-4xl mx-auto text-center space-y-8">
+        <div className="max-w-3xl mx-auto text-center space-y-8 px-6">
           <div className="space-y-6">
             <h2 className="text-4xl font-bold text-white">Ready to Transform Your Amazon PPC Performance?</h2>
             <p className="text-xl text-gray-300 leading-relaxed">
@@ -516,7 +516,7 @@ export default function HomePage() {
       </section>
 
       <section id="audit-tool-section" className="py-20 px-4 bg-white">
-        <div className="max-w-7xl mx-auto text-center">
+        <div className="max-w-6xl mx-auto text-center px-6">
           <h2 className="text-4xl font-bold text-gray-900 mb-8">Amazon Ads Performance Audit Tool</h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             Get your comprehensive Amazon advertising audit report in minutes. Simply upload your data and receive
