@@ -264,7 +264,7 @@ export default function HomePage() {
           <div className="text-center mt-12">
             <Button
               onClick={scrollToAuditTool}
-              className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-8 py-4 text-lg font-semibold shadow-xl drop-shadow-lg"
+              className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-4 py-3 sm:px-6 sm:py-4 lg:px-8 lg:py-4 text-base sm:text-lg font-semibold shadow-xl drop-shadow-lg w-full sm:w-auto"
             >
               Get Your Comprehensive Analysis Now
             </Button>
@@ -328,7 +328,7 @@ export default function HomePage() {
           <div className="mt-8">
             <Button
               onClick={scrollToAuditTool}
-              className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-8 py-4 text-lg font-semibold shadow-xl drop-shadow-lg"
+              className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-4 py-3 sm:px-6 sm:py-4 lg:px-8 lg:py-4 text-base sm:text-lg font-semibold shadow-xl drop-shadow-lg w-full sm:w-auto"
             >
               Get My Personalized Action Plan
             </Button>
@@ -394,7 +394,7 @@ export default function HomePage() {
           <div className="mt-8">
             <Button
               onClick={scrollToAuditTool}
-              className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-8 py-4 text-lg font-semibold shadow-xl drop-shadow-lg"
+              className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-4 py-3 sm:px-6 sm:py-4 lg:px-8 lg:py-4 text-base sm:text-lg font-semibold shadow-xl drop-shadow-lg w-full sm:w-auto"
             >
               Start the 3-Step Process Now
             </Button>
@@ -423,17 +423,17 @@ export default function HomePage() {
                   </p>
                 </div>
 
-                <div className="grid grid-cols-3 gap-4 text-center">
-                  <div className="space-y-2">
-                    <div className="text-2xl font-bold text-blue-600">Transparency</div>
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                  <div className="space-y-2 p-4 sm:p-2">
+                    <div className="text-xl sm:text-2xl font-bold text-blue-600">Transparency</div>
                     <div className="text-sm text-gray-600">No hidden agenda</div>
                   </div>
-                  <div className="space-y-2">
-                    <div className="text-2xl font-bold text-blue-600">Expertise</div>
+                  <div className="space-y-2 p-4 sm:p-2">
+                    <div className="text-xl sm:text-2xl font-bold text-blue-600">Expertise</div>
                     <div className="text-sm text-gray-600">$100M+ managed</div>
                   </div>
-                  <div className="space-y-2">
-                    <div className="text-2xl font-bold text-blue-600">Results</div>
+                  <div className="space-y-2 p-4 sm:p-2">
+                    <div className="text-xl sm:text-2xl font-bold text-blue-600">Results</div>
                     <div className="text-sm text-gray-600">Proven success</div>
                   </div>
                 </div>
@@ -506,7 +506,7 @@ export default function HomePage() {
 
           <Button
             onClick={scrollToAuditTool}
-            className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-12 py-6 text-xl font-semibold shadow-xl drop-shadow-lg"
+            className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-6 py-4 sm:px-8 sm:py-5 lg:px-12 lg:py-6 text-lg sm:text-xl font-semibold shadow-xl drop-shadow-lg w-full sm:w-auto"
           >
             🔥 Start Your Free Audit
           </Button>
